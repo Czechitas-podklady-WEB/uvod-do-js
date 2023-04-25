@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "fix": "prettier --write \"**/*.{md,html,js,css}\""
+  },
+  "devDependencies": {
+    "prettier": "2.6.2"
+  }
+}

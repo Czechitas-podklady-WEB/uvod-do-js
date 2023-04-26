@@ -2,3 +2,6 @@ title: První program
 lead: Konečně vytvoříme svůj první JavaScriptový program uvnitř webové stránky.
 sections:
   - stranka
+  - promenne
+  - promenne-pravidla
+  - cv-programy

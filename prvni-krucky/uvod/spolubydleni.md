@@ -20,21 +20,21 @@ Představte si šest spolubydlících: Libora, Zuzku, Patra, Pavlu, Ondru a Mí�
 toaletní papír, mýdlo, prací prášek apod. Postupně svoje útraty zapisují do
 tabulky, která může vypadat například takto:
 
-Jméno | Věc | Částka
------ | --- | ------
-Petr| Prací prášek| 240 kč
-Ondra| Savo| 80 kč
-Pavla| Toaleťák| 65 kč
-Zuzka| Mýdlo| 50 kč
-Pavla| Závěs do koupelny| 350 kč
-Libor| Pivka na kolaudačku| 124 kč
-Petr| Pytle na odpadky| 75 kč
-Míša| Utěrky na nádobí| 130 kč
-Ondra| Toaleťák| 120 kč
-Míša| Pečící papír| 30 kč
-Zuzka| Savo| 80 kč
-Petr| Tapeta na záchod| 315 kč
-Ondra| Toaleťák| 64 kč
+Jméno | Věc                 | Částka
+----- | ------------------- | ------
+Petr  | Prací prášek        | 240 kč
+Ondra | Savo                | 80 kč
+Pavla | Toaleťák            | 65 kč
+Zuzka | Mýdlo               | 50 kč
+Pavla | Závěs do koupelny   | 350 kč
+Libor | Pivka na kolaudačku | 124 kč
+Petr  | Pytle na odpadky    | 75 kč
+Míša  | Utěrky na nádobí    | 130 kč
+Ondra | Toaleťák            | 120 kč
+Míša  | Pečící papír        | 30 kč
+Zuzka | Savo                | 80 kč
+Petr  | Tapeta na záchod    | 315 kč
+Ondra | Toaleťák            | 64 kč
 
 Dejme tomu, že uplynulo například půl roku a spolubydlící se chtějí navzájem
 finančně vyrovnat. Vaším úkolem je vymyslet přesný postup, který mají

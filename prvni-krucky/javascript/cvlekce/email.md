@@ -1,6 +1,7 @@
 ---
 title: E-mail
 demand: 1
+offerSolution: false
 ---
 
 Vytvořte řetězec obsahující vaši e-mailovou adresu.
@@ -10,5 +11,5 @@ Vytvořte řetězec obsahující vaši e-mailovou adresu.
 ---solution
 
 ```js
-'Tom' + '.' + 'Jedno' + '@mujmail.com';
+'Pavel' + '.' + 'Trdlo' + '@mujmail.com';
 ```

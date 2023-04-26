@@ -1,10 +1,5 @@
-title: Úvod do programování 1
-lead: Zjistíte, že programování nemusí být nudný shluk závorek, písmen a číslic. Poznáte základy programování.
+title: První krůčky
+lead: Zjistíte, že programování nemusí být nudný shluk závorek, písmen a číslic a poznáte základy programování jazyka JavaScript.
 lessons:
   - uvod
-  - blok-1
-  - blok-2
-  - blok-3
-  - blok-4
-  - blok-5
-  - zaver
+  - javascript

@@ -1,0 +1,6 @@
+title: Základy JavaScriptu
+lead: Ukážeme si základy stavební kameny programování v JavaScriptu.
+sections:
+  - javascript
+  - hodnoty-operatory
+  - funkce

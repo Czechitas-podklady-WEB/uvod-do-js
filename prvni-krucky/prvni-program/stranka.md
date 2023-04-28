@@ -27,19 +27,21 @@ Všechny tyto prvky spojíme do jednoho souboru s názvem `index.html`, který p
 
 ```html
 <html>
-  <style>
-    html {
-      font-family: sans-serif;
-    }
-  </style>
 
-  <body>
-    <h1>Moje první stránka</h1>
-  </body>
+<style>
+  html {
+    font-family: sans-serif;
+  }
+</style>
 
-  <script>
-    document.body.innerHTML += '<p>JavaScript je super!</p>';
-  </script>
+<body>
+  <h1>Moje první stránka</h1>
+</body>
+
+<script>
+  document.body.innerHTML += '<p>JavaScript je super!</p>';
+</script>
+
 </html>
 ```
 

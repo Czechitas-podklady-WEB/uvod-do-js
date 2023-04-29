@@ -2,7 +2,7 @@
 
 Doposud všechny naše programy vypadaly jako sekvence příkazů vykonávané jeden za druhým. Pro komplikovanější problémy ale budeme potřebovat umožnit, aby se některé části programu vykonaly jen za určitých podmínek.
 
-Pro jednoduchý příklad si představme e-shop prodávající alkoholické nápoje. Před každou objednávkou musíme zkontrolovat, že zákazník má alepoň 18 let.
+Pro jednoduchý příklad si představme e-shop prodávající alkoholické nápoje. Před každou objednávkou musíme zkontrolovat, že je zákazníkovi alepoň 18 let.
 
 ```js
 const age = Number(prompt('Zadejte svůj věk:'));
@@ -14,7 +14,7 @@ if (age >= 18) {
 }
 ```
 
-Toto je příklad velmi jednoduché podmínky se dvěm větvemi. V závorkách po klíčovém slovu `if` musí vždy být výraz, který vrací pravdivostní hodnotu. Podle toho, jestli je výsledek výrazu `true` nebo `false`, se buď vykoná kód v prvních složených závorkách, nebo kód v závorkách za slovem `else`. Tady se proprvé potkáváme s takzvanými <em>bloky kódu</em>, které jsou téměř nezbytnou ingrediencí všech programů.
+Toto je příklad velmi jednoduché podmínky se dvěma větvemi. V závorkách po klíčovém slovu `if` musí vždy být výraz, který vrací pravdivostní hodnotu. Podle toho, jestli je výsledek výrazu `true` nebo `false`, se buď vykoná kód v prvních složených závorkách, nebo kód v závorkách za slovem `else`. Tady se proprvé potkáváme s takzvanými <em>bloky kódu</em>, které jsou téměř nezbytnou ingrediencí všech programů.
 
 ### Bloky kódu
 
@@ -22,7 +22,7 @@ Pokud nějaké řádky kódu uzavřeme do složených závorek, vytváříme tak
 
 Aby se nám kód dobře četl, odsazujeme řádky uvnitř bloku o kus doprava. V tomto kurzu budeme používat dvě mezery. Pokud máte VS Code nastavené podle naších doporučení, při psaní se vám řádky budou automaticky odsazovat. Stisknutím tabulátoru :kbd[Tab] pak můžete odsazení vložit sami. Stisknutím :kbd[Shift]+:kbd[Tab] jej naopak zrušíte. To se hodí pokud chcete například odsadit velký kus kódu najednou. Stačí jej vybrat myší a stiknout :kbd[Tab] nebo :kbd[Shift]+:kbd[Tab].
 
-Je dobré mít na paměti, že odsazování a obecně většina bílých znaků, je především pro nás pro lidi, tedy pro čtenáře kódu. Počítači, tedy přesnějí JavaScript runtimu, jsou bílé znaky jedno. Můžeme si je tady dávat kam chceme. Následující dva zápisy jsou z hlediska runtimu zcela stejné.
+Je dobré mít na paměti, že odsazování a obecně většina bílých znaků, je především pro nás pro lidi, tedy pro čtenáře kódu. Počítači, tedy přesnějí JavaScript runtimu, jsou bílé znaky jedno. Můžeme si je tady dávat, kam chceme. Následující dva zápisy jsou z hlediska runtimu zcela stejné.
 
 ```js
 if (age >= 18) {
@@ -38,7 +38,7 @@ if(age>=18){document.body.innerHTML = '<p>Pokračujte k platbě</p>';}
 else{document.body.innerHTML = '<p>Bohužel máte nízký věk</p>';}
 ```
 
-Věřím, že uznáte, že první varianta je mnohem čitelnější než druhá. Způsobů, jak formátovat kód existuje vícero a můžete se tak účastnit nekonečných hospodských disputací o tom, jestli odsazovat pomocí dvou mezer nebo čtyř, jestli otvírací složenou závorku psát na konec řádku nebo na začátek nového a tak dále.
+Věřím, že uznáte, že první varianta je mnohem čitelnější než druhá. Způsobů, jak formátovat kód, existuje vícero a můžete se tak účastnit nekonečných hospodských disputací o tom, jestli odsazovat pomocí dvou mezer nebo čtyř, jestli otvírací složenou závorku psát na konec řádku nebo na začátek nového a tak dále.
 
 <!-- prettier-ignore -->
 ```js
@@ -83,7 +83,7 @@ if (body >= 90) {
 }
 ```
 
-V takto rozvětvené podmínkce JavaScript runtime prochází jednotlivé výrazy dokud nenarazí na ten, který se vyhodnotí jako `true`. Vykoná příslušný blok a kódu a **zbylé větve přeskočí.** Vykoná se tak pouze první větev, která se vyhodnotí jako `true`. Pokud by byly všechny výrazy `false`, vykoná se větev `else`. Jak už víme, větev `else` přítomná být nemusí. Výše udovedný kód bychom tedy mohli malinko zkrátit takto.
+V takto rozvětvené podmínkce JavaScript runtime prochází jednotlivé výrazy dokud nenarazí na ten, který se vyhodnotí jako `true`. Vykoná příslušný blok a kódu a **zbylé větve přeskočí.** Vykoná se tak pouze první větev, která se vyhodnotí jako `true`. Pokud by byly všechny výrazy `false`, vykoná se větev `else`. Jak už víme, větev `else` přítomná být nemusí. Výše uvedený kód bychom tedy mohli malinko zkrátit takto.
 
 ```js
 let znamka = 'F';
@@ -119,4 +119,4 @@ if (age >= 18) {
 }
 ```
 
-Takto můžeme vytvářet relativně komplikované rozhodování. Se zanořováním podmínek je ale dobré to příliš nepřehánět. Málokdo se dokáže snadno zorientovat v temných hlubínách pětkrát zanořené podmínky. Později se naučíme strategie, jak se takovým hlubokým zanořením vyhnout.
+Takto můžeme vytvářet relativně komplikované rozhodování. Se zanořováním podmínek je ale dobré to příliš nepřehánět. Málokdo se dokáže snadno zorientovat v temných hlubinách pětkrát zanořené podmínky. Později se naučíme strategie, jak se takovým hlubokým zanořením vyhnout.

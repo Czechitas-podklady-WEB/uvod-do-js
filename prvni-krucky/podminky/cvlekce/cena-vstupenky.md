@@ -1,6 +1,7 @@
 ---
 title: Cena vstupenky
 demand: 2
+offerSolution: false
 ---
 
 Pokusme se o základ jednoduchého rezervačního systému pro vstupenky do divadla. Založte si webovou stránku s JavaScriptem. Nechte uživatele **zadat jeho věk**. Vytvořte si proměnnou `plnaCena`, do které uložte hodnotu `12`. Vytvořte podmínku, která do proměnné `cena` uloží cenu spočítanou podle věku uživatele **dle následujících pravidel**

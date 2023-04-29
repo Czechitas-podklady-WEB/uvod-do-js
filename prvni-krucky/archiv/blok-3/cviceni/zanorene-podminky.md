@@ -1,6 +1,7 @@
 ---
 title: Zanořené podmínky
 demand: 3
+offerSolution: false
 ---
 
 Pokračujte v kódu z předchozí úlohy. Doplňte kód do kódu doporučení pro další aktivity.

@@ -1,9 +1,10 @@
 ---
 title: Seznam hodnocení
 demand: 1
+offerSolution: false
 ---
 
-Mějme seznam hodnocení divadelní hry *Plyšáci na útěku* , který vypadá takto:
+Mějme seznam hodnocení divadelní hry *Plyšáci na útěku*, který vypadá takto:
 
 ```js
 const hodnoceni = [7, 9, 6, 7, 9, 8];

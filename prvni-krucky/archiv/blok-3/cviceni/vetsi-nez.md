@@ -1,6 +1,7 @@
 ---
 title: Větší než
 demand: 2
+offerSolution: false
 ---
 
 1. Vytvořte proměnnou, do které vložíte výsledek z generátoru náhodných čísel.

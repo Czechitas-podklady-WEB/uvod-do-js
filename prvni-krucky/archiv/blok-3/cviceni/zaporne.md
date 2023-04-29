@@ -1,6 +1,7 @@
 ---
 title: Větší než nebo záporné
 demand: 2
+offerSolution: false
 ---
 
 1. Vytvořte proměnnou, do které načtete číslo od uživatele z klávesnice.

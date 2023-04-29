@@ -1,6 +1,7 @@
 ---
 title: Realitka
 demand: 2
+offerSolution: false
 ---
 
 Mějme následující objekt představující inzerát na stránkách nějaké realitní kanceláře.

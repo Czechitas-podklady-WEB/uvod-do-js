@@ -1,6 +1,7 @@
 ---
 title: Výdaje
 demand: 3
+offerSolution: false
 ---
 
 Následující pole obsahuje náš známý seznam výdejů na spolubydlení.

@@ -1,6 +1,7 @@
 ---
 title: Koupání
 demand: 3
+offerSolution: false
 ---
 
 Napište kód, který bude podle počasí doporučovat aktivity na víkend.

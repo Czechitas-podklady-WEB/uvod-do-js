@@ -1,7 +1,7 @@
-Cílem tohoto kurzu není z vás udělat programátory, protože to je běh na mnohem
-delší trať než na jakou máme během jediného dne čas. Co ale za jeden den
+Cílem tohoto kurzu není udělat z vás programátory, protože to je běh na mnohem
+delší trať, než na jakou máme během jediného dne čas. Co ale za jeden den
 stihneme, je nahlédnout pod pokličku toho, jak vypadá každodenní práce
-programátora nebo vývojáře a ochutnat jaké problémy se v programátorské praxi
+programátora nebo vývojáře a ochutnat, jaké problémy se v programátorské praxi
 řeší.
 
 Programování z velké části sestává z psaní kódu v nějakém programovacím
@@ -16,7 +16,7 @@ Psát kód zatím ještě neumíme, ale programátorský způsob přemýšlení 
 problémy si můžeme vyzkoušet už nyní.
 
 Představte si šest spolubydlících: Libora, Zuzku, Patra, Pavlu, Ondru a Míšu.
-Žijí v jednom bytě a dělí se o náklady na společně používané věci jako je
+Žijí v jednom bytě a dělí se o náklady na společně používané věci, jako je
 toaletní papír, mýdlo, prací prášek apod. Postupně svoje útraty zapisují do
 tabulky, která může vypadat například takto:
 

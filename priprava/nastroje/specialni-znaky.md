@@ -8,7 +8,7 @@ Všechny důležité speciální znaky lze napsat na českém QWERTZ rozložení
 
 ### Přepínat mezi českou a anglickou klávesnicí
 
-Druhá možnost je během programování přepínat mezi českou a anglickou klávesnicí. Zde je výhoda v tom, že většina důležitých speciálních znaků se na anglické klávesnici nachází v horní řadě tam, kde jsou běžně písmenka s diakritikou, opět viz příslušný plánek. Nevýhodou naopak je, že na anglické klávesnici nenajdete české znaky s diakritikou. Navíc na české a anglické klávesnizi se liší pozice písmen :kbd[Y] a :kbd[Z]. Proto je lepší používat české rozložení ve variantě QWERTY. V takovémto případě je také dobré naučit se zkratku pro přepínání mezi klávesnicemi. Ve Windows to bývá většinou :kbd[Windows logo] + :kbd[mezerník].
+Druhá možnost je během programování přepínat mezi českou a anglickou klávesnicí. Zde je výhoda v tom, že většina důležitých speciálních znaků se na anglické klávesnici nachází v horní řadě tam, kde jsou běžně písmenka s diakritikou, opět viz příslušný plánek. Nevýhodou naopak je, že na anglické klávesnici nenajdete české znaky s diakritikou. Navíc se na české a anglické klávesnici liší pozice písmen :kbd[Y] a :kbd[Z]. Proto je lepší používat české rozložení ve variantě QWERTY. V takovémto případě je také dobré naučit se zkratku pro přepínání mezi klávesnicemi. Ve Windows to bývá většinou :kbd[Windows logo] + :kbd[mezerník].
 
 Pokud si chcete ve Windows nainstalovat českou QWERTY a případně anglickou klávesnici i přes to, že to není nutné, postupujte podle videa níže.
 

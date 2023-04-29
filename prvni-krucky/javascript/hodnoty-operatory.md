@@ -23,7 +23,7 @@ Vždy, když v konzoli napíšete příkaz a stisknete klávesu :kbd[Enter], po�
 Pozor na to, že ve všech programovacích jazycích (s výjimkou MS Excel) se desetinná čísla píší s tečkou, nikoliv s čárkou.
 :::
 
-Operátory jsou v našem případě sčítání, odčítání, násobení a dělení. Je potřeba si zvyknout na to, jakými symboly se JavaScriptu zapisují. Možná budete muset malinko prohledat klávesnici, než najdete například dopředné lomítko nebo hvězdičku.
+Operátory jsou v našem případě sčítání, odčítání, násobení a dělení. Je potřeba si zvyknout na to, jakými symboly se v JavaScriptu zapisují. Možná budete muset malinko prohledat klávesnici, než najdete například zpětné lomítko nebo hvězdičku.
 
 Kromě výše zmíněných nabízí JavaScript jeden zajímavý operátor, který jste možná ještě nepotkali. Jmenuje se zbytek po dělení.
 

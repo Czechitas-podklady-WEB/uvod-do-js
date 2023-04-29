@@ -2,7 +2,7 @@
 
 Pouze s hodnotami a operátory bychom se v programování daleko nedostali. Často budeme potřeboval vykonat složitější operaci než jen matematický výpočet. Pokud nějakou takovou složitější operaci programátoři používají často, šance je, že pro ni existuje :term{cs="funkce" en="function"}.
 
-Funkce je kousek programu řešící nějakou konkrétní úlohu. Většinou jde o úlohu, kterou řešime často a opakovaně. Příkladem může být například zaokrouhlování desetinných čísel na celá čísla. To je operace, která se hodí skoro ve všech výpočtech, a bylo by zbyteční ji programovat neustále znova. V JavaScriptu proto máme k dispozici funkci jménem `Math.round`.
+Funkce je kousek programu řešící nějakou konkrétní úlohu. Většinou jde o úlohu, kterou řešime často a opakovaně. Příkladem může být například zaokrouhlování desetinných čísel na celá čísla. To je operace, která se hodí skoro ve všech výpočtech, a bylo by zbytečné ji programovat neustále znova. V JavaScriptu proto máme k dispozici funkci jménem `Math.round`.
 
 Pokud chceme nějakou funkci použít, uděláme to tak, že napíšeme její jméno a do kulatých závorek vložíme hodnotu, se kterou má funkce pracovat. Takto například použijeme naši funci `Math.round`.
 

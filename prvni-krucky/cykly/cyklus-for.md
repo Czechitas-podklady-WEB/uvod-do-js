@@ -26,7 +26,7 @@ Nikdo nás samozřejmě nenutí procházet pouze pole čísel. Mějme napříkla
 
 ```js
 const jmena = ['petr', 'pavel', 'jitka', 'jana'];
-for (const jmeno in jmena) {
+for (const jmeno of jmena) {
   const mail = jmeno + '@gmail.com';
   document.body.innerHTML += '<p>' + mail + '</p>';
 }
@@ -51,7 +51,7 @@ const mesta = [
   { nazev: 'Pardubice', obyvatel: 88520 },
 ];
 
-for (const mesto in mesta) {
+for (const mesto of mesta) {
   if (mesto.obyvatel > 100000) {
     document.body.innerHTML += '<p><strong>' + mesto.nazev + '</strong></p>';
   } else {

@@ -1,6 +1,7 @@
 ---
 title: Házení kostkou
 demand: 2
+offerSolution: false
 ---
 
 Vytvořte program, který bude virtuálně házet kostkou, dokud mu nepadne 6. Každý hod vypíšte na obrazovku.

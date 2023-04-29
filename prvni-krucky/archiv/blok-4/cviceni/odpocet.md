@@ -1,6 +1,7 @@
 ---
 title: Odpočet
 demand: 2
+offerSolution: false
 ---
 
 Vypište do konzole všechna čísla od `20` do `1`.

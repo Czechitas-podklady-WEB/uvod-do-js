@@ -1,6 +1,7 @@
 ---
 title: Převod měny
 demand: 2
+offerSolution: false
 ---
 
 1. Dejme tomu, že si jako programátoři vyděláváte 20 euro na hodinu. Uložte tuto hodnotu do proměnné `wageInEur`.

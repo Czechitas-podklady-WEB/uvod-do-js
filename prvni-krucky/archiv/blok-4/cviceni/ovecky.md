@@ -1,6 +1,7 @@
 ---
 title: Počítání oveček
 demand: 3
+offerSolution: false
 ---
 
 Vytvořte program na uspávání, který pomocí cyklu vypíše první čtyři ovečky následovně:

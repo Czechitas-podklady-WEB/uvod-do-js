@@ -1,6 +1,7 @@
 ---
 title: Klepání
 demand: 2
+offerSolution: false
 ---
 
 Pomocí dvou vnořených cyklů vypište všechna Sheldnova klepání.

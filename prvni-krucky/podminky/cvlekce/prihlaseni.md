@@ -1,6 +1,7 @@
 ---
 title: Přihlášení
 demand: 2
+offerSolution: false
 ---
 
 Většina webových aplikací má možnost vytvořit si v nich osobní účet, do kterého se poté přihlásíte pomocí jména a hesla. Zkusíme si proto naprogramovat jednoduchou kontrolu uživatelských údajů.

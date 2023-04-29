@@ -1,6 +1,7 @@
 ---
 title: Očkování
 demand: 2
+offerSolution: false
 ---
 
 Představte si, že vyrábíte registrační systém na očkování proti COVID-19. U každého registrovaného chceme evidovat jméno a věk.

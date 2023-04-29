@@ -1,6 +1,7 @@
 ---
 title: Klávesová zvířátka
 demand: 2
+offerSolution: false
 ---
 
 V tomto cvičení si vyzkoušíte psát speciální znaky na klávesnici, abyste je pak nemuseli v potu tváře lovit na kurzu.

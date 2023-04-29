@@ -1,6 +1,7 @@
 ---
 title: Bonus
 demand: 2
+offerSolution: false
 ---
 
 #### Kostka

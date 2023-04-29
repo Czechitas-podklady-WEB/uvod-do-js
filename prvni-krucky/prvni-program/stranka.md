@@ -1,12 +1,12 @@
-V minulé lekci jsme si malinko osahali příkazy v JavaScriptu, ale zatím jsme ještě nenapsali žádny opravodý program. Jelikož je JavaScript jazyk webu, je potřeba si nejdříve založit webovou stránku.
+V minulé lekci jsme si malinko osahali příkazy v JavaScriptu, ale zatím jsme ještě nenapsali žádny opravdodý program. Jelikož je JavaScript jazyk webu, je potřeba si nejdříve založit webovou stránku.
 
 ## Webové stránky
 
-Při tvorbě každé webové stránky se spolu s JavaScriptem používají ještě dva další speciální jazyky jménem HTML, CSS. S trochou cviku se můžete naučit základy obou těchto jazyků a začít tvorit vlastní webové stránky.
+Při tvorbě každé webové stránky se spolu s JavaScriptem používají ještě dva další speciální jazyky jménem HTML a CSS. S trochou cviku se můžete naučit základy obou těchto jazyků a začít tvořit vlastní webové stránky.
 
 ::fig[webové jazyky]{src=assets/web.png}
 
-HTML (_HyperText Markup Language_) se používá pro tvorbu struktury webové stránky. Pomocí HTML značek se definuje obsah stránky, jako jsou nadpisy, odstavce, obrázky a odkazy. Tyto značky jsou obklopeny hranatými závorkami `< >` a mají (až na výjimky) otvírací a zavírací značku. Například takto se v HTML vytvoří nadpis stránky:
+HTML (_HyperText Markup Language_) se používá pro tvorbu struktury webové stránky. Pomocí HTML značek se definuje obsah stránky, jako jsou nadpisy, odstavce, obrázky a odkazy. Tyto značky jsou obklopeny špičatými závorkami `< >` a mají (až na výjimky) otvírací a zavírací značku. Například takto se v HTML vytvoří nadpis stránky:
 
 ```html
 <h1>Moje první stránka</h1>

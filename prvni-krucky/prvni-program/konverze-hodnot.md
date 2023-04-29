@@ -9,7 +9,7 @@
 '125'
 ```
 
-JavaScript se nám (občas k naší škodě) snaží udělat život jednodušší a tak za nás v určitých případech provádí automatickou konverzi.
+JavaScript se nám (občas k naší škodě) snaží udělat život jednodušší, a tak za nás v určitých případech provádí automatickou konverzi.
 
 ```jscon
 > '12' + 5
@@ -96,7 +96,7 @@ document.body.innerHTML = konec;
 
 Z tohoto příkladu plyne do budoucna velmi důležité poučení. Vždycky si dávejte dobrý pozor na to, s jakými typy hodnot pracujete. Pokud například chcete používat výstup funkce `prompt` jako číslo, vždy jej explicitně převeďte na číslo. Dáte tak i čtenářům vašeho programu najevo, co je vaším záměrem, a oni tak nebudou muset smysl vašeho programu rozplétat jako detektivní zápletku.
 
-Fakt, že JavaScript pro nás některé konverze dělá automaticky, můžeme využít k tomu, abychom uživateli vypsali nějakou hezčí zprávu, než jen holé číslo.
+Fakt, že JavaScript pro nás některé konverze dělá automaticky, můžeme využít k tomu, abychom uživateli vypsali nějakou hezčí zprávu než jen holé číslo.
 
 ```js
 document.body.innerHTML = '<p>Běžec dorazí v ' + konec + 'h</p>';

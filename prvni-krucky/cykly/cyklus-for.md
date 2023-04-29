@@ -35,7 +35,7 @@ for (const jmeno in jmena) {
 Takto vytiskneme na obrazovku e-maily jednotlivých lidí, každý jako jeden odstavec.
 
 Jak už bylo napsáno výše, cyklus může obsahovat libovolný blok příkazů, takže
-se můžeme opravdu rozparádit a vložit do bloku v cyklu FOR třeba podmínku. Navíc budeme procházte pole objektů.
+se můžeme opravdu rozparádit a vložit do bloku v cyklu FOR třeba podmínku. Navíc budeme procházet pole objektů.
 
 ```js
 const mesta = [
@@ -60,6 +60,6 @@ for (const mesto in mesta) {
 }
 ```
 
-Takto jsme do stránky vypsali včechna města a vytučnili jsme ta, která mají nad 100 000 obyvatel.
+Takto jsme do stránky vypsali všechna města a vytučnili jsme ta, která mají nad 100 000 obyvatel.
 
-Tímto jsme vysvětlili to hlavní a zásadní co o cyklu FOR zatím potřebujeme vědět. Možná se to na první pohled nezdá, ale přidáním cyklu do našeho programátorského arzenálu jsme otevřeli pandořinu skříňku plnou možností, co v našich programech můžeme dělat. Taky jsme ale otevřeli bránu do samotného pekla, neboť už díky cyklům dokážeme řešit mnohem složitější a komplikovanější problémy, na které ale bude často potřeba pořádně roztočit mozkové závity.
+Tímto jsme vysvětlili to hlavní a zásadní, co o cyklu FOR zatím potřebujeme vědět. Možná se to na první pohled nezdá, ale přidáním cyklu do našeho programátorského arzenálu jsme otevřeli pandořinu skříňku plnou možností, co v našich programech můžeme dělat. Taky jsme ale otevřeli bránu do samotného pekla, neboť už díky cyklům dokážeme řešit mnohem složitější a komplikovanější problémy, na které ale bude často potřeba pořádně roztočit mozkové závity.

@@ -1,12 +1,12 @@
 ## Objekty
 
-Prozatím jsme v naších programech pracovali pouze s čísly, řetězci a pravdivostními hodnotami. V reálnějších programech však budeme potřebovat do naších proměných uložit více než pouze jednu informaci. Představte si například, že chceme evidovat doručovací adresu uživatele e-shopu. Každá adresa má ulici, číslo domu, město a PSČ. Takovou informaci bychom mohli zkusit nacpat do jednoho řetězce třeba takto.
+Prozatím jsme v našich programech pracovali pouze s čísly, řetězci a pravdivostními hodnotami. V reálnějších programech však budeme potřebovat do našich proměných uložit více než pouze jednu informaci. Představte si například, že chceme evidovat doručovací adresu uživatele e-shopu. Každá adresa má ulici, číslo domu, město a PSČ. Takovou informaci bychom mohli zkusit nacpat do jednoho řetězce třeba takto.
 
 ```js
 const address = 'Pod Kaštany 31, 123 11 Horní Dlouhonosy';
 ```
 
-Vysekat z takového řetězce jednotlivé údaje je ovšem dost pracné a našikovné. Pokud chceme informace lépe strukturovat, použijeme v JavaScriptu takzvané :term{cs="objekty" en="objects"}.
+Vysekat z takového řetězce jednotlivé údaje je ovšem dost pracné a nešikovné. Pokud chceme informace lépe strukturovat, použijeme v JavaScriptu takzvané :term{cs="objekty" en="objects"}.
 
 ```js
 const address = {
@@ -32,7 +32,7 @@ Pomocí klíčů pak můžeme z objektu získat jednotlivé hodnoty použitím t
 31
 ```
 
-Klíče v objektu se chovají podobně jako proměnné. Řídí se stejnými pravidly pro názvosloví. Můžete tedy mít objekty třeba v hadí notací.
+Klíče v objektu se chovají podobně jako proměnné. Řídí se stejnými pravidly pro názvosloví. Můžete tedy mít objekty třeba v hadí notaci.
 
 ```js
 const address = {

@@ -1,6 +1,6 @@
 ## Pole
 
-Podobně jako objekty, pole nám :term{cs="Pole" en="Array"} nám umožňují dát našim datům nějakou strukturu. Pole si můžete představit jednoduše jako seznam hodnot. Tvoříme je pomocí hranatých závorek. Takto například do jedné proměnné uložíme známky ze všech písemek psaných za jedno pololetí.
+Podobně jako objekty, :term{cs="Pole" en="Array"} nám umožňují dát našim datům nějakou strukturu. Pole si můžete představit jednoduše jako seznam hodnot. Tvoříme je pomocí hranatých závorek. Takto například do jedné proměnné uložíme známky ze všech písemek psaných za jedno pololetí.
 
 ```jscon
 > const marks = [3, 1, 2, 4]
@@ -37,7 +37,7 @@ Pomocí indexů také můžeme hodnoty uvnitř pole měnit. Dejme tomu, že si p
 [ 3, 1, 2, 2 ]
 ```
 
-Všimněte si, že pole může obsahovat libovolné hodnoty, tedy napříkla i objekty. Taková věc se nám může velmi hodit například pro reprezentaci naší tabulky útrat:
+Všimněte si, že pole může obsahovat libovolné hodnoty, tedy například i objekty. Taková věc se nám může velmi hodit například pro reprezentaci naší tabulky útrat:
 
 ```js
 const vydaje = [

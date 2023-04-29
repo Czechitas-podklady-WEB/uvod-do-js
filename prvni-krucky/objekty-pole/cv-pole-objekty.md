@@ -1,4 +1,4 @@
-## Cvičení: Výrazy a funkce
+## Cvičení: Objekty a pole
 
 ::exc[cvlekce>knihovna]
 ::exc[cvlekce>realitka]

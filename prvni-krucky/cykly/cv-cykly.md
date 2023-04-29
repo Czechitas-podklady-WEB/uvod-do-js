@@ -1,4 +1,4 @@
 ## Cvičení: Cykly
 
-::exc[cv-lekce>seznam-hodnoceni]
-::exc[cv-lekce>vydaje]
+::exc[cvlekce>seznam-hodnoceni]
+::exc[cvlekce>vydaje]

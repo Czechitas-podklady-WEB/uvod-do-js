@@ -13,7 +13,7 @@ Pokračujte v kódu z předchozí úlohy. Doplňte kód do kódu doporučení pr
 1. Pokud nebude platit žádná podmínka, vypište „**Zůstaň doma a zahraj si deskovky.**“
 1. Kód zkuste několikrát pustit.
 
----solution
+:::solution
 
 ```js
 let minimalniTeplotaNaKoupani = 30
@@ -37,3 +37,5 @@ if (predpoved >= minimalniTeplotaNaKoupani) {
 	}
 }
 ```
+
+:::

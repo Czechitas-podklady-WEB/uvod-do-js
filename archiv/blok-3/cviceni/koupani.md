@@ -11,7 +11,7 @@ Napište kód, který bude podle počasí doporučovat aktivity na víkend.
 1. Pokud bude předpověď větší nebo rovna `minimalniTeplotaNaKoupani`, vypište „**Ideální příležitost jít se vykoupat.**“
 1. Kód zkuste několikrát pustit.
 
----solution
+:::solution
 
 ```js
 let minimalniTeplotaNaKoupani = 30
@@ -23,3 +23,5 @@ if (predpoved >= minimalniTeplotaNaKoupani) {
 	console.log('Ideální příležitost jít se vykoupat.')
 }
 ```
+
+:::

@@ -16,7 +16,7 @@ Padlo číslo 1
 Padlo číslo 6
 ```
 
----solution
+:::solution
 
 ```js
 let cisloNaKostce = 0
@@ -25,3 +25,5 @@ while (cisloNaKostce !== 6) {
 	console.log('Padlo číslo ' + cisloNaKostce)
 }
 ```
+
+:::

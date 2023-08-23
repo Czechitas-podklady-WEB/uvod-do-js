@@ -8,7 +8,7 @@ demand: 2
 1. Pokud její hodnota bude větší než `0.5`, vypište text „**Číslo je větší než 0.5**“.
 1. Program zkuste několikrát pustit a koukejte, jestli se přibližně v polovině případů text vypíše.
 
----solution
+:::solution
 
 ```js
 let nahodneCislo = Math.random()
@@ -19,3 +19,5 @@ if (nahodneCislo > 0.5) {
 	console.log('Číslo je větší než 0.5')
 }
 ```
+
+:::

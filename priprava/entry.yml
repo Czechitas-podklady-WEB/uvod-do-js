@@ -1,4 +1,8 @@
-title: Příprava
-lead: Než začneme programovat, bude potřeba správně připravit počítač i mozkové závity.
-lessons:
-  - nastroje
+title: Příprava před kurzem
+lead: Nainstalujeme nástroje, které budete pro programování na vlastním počítači potřebovat
+sections:
+  - operacni-system
+  - prohlizec
+  - vscode
+  - specialni-znaky
+  - cv-znaky

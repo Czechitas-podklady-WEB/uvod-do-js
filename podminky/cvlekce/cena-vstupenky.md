@@ -1,6 +1,8 @@
 ---
 title: Cena vstupenky
 demand: 2
+lead: Spočítejte cenu vstupenky do divadla.
+solutionAccess: lock
 ---
 
 Pokusme se o základ jednoduchého rezervačního sestému pro vstupenky do divadla. Založte si webovou stránku s JavaScriptem. Nechte uživatele **zadat jeho věk**. Vytvořte si proměnnou `plnaCena`, do které uložte hodnotu `12`. Vytvořte podmínku, která do proměnné `cena` uloží cenu spočítanou podle věku uživatele **dle následujících pravidel**

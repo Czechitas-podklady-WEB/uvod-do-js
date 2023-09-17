@@ -1,7 +1,7 @@
 title: Základy JavaScriptu
 lead: Ukážeme si základy stavební kameny programování v JavaScriptu.
 sections:
-  - javascript
+  - prvni-program
   - hodnoty-operatory
   - funkce
   - cv-vyrazy-funkce

@@ -1,6 +1,8 @@
 ---
 title: Pole v divadle
 demand: 3
+lead: Vytvořte si různá pole s různými hodnotami
+solutionAccess: lock
 ---
 
 1. Zolažte JavaScriptový program a do různých proměnných si uložte pole z následujících bodů.

@@ -1,6 +1,8 @@
 ---
 title: Výdaje
 demand: 3
+lead: Vypište všechny výdaje na spolubydlení.
+solutionAccess: lock
 ---
 
 Následující pole obsahuje náš známý seznam výdejů na spolubydlení.

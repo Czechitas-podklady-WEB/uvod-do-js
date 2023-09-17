@@ -1,6 +1,5 @@
 ## Cvičení: Programy, proměnné
 
-::exc[cvlekce/nahodna-cisla]
 ::exc[cvlekce/prevod-meny]
 
 ### Bonusová cvičení

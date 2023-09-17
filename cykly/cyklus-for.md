@@ -1,6 +1,6 @@
 Počítače a programování byly vymyšleny především proto, aby ušetřili lidem
 nudnou a repetitivní práci. Proto chceme umět počítači říct, že má nějakou
-činnost **opakovat mnohokrát po sobě**. K tomu nám v programování slouží takzvané
+činnost opakovat mnohokrát po sobě. K tomu nám v programování slouží takzvané
 cykly.
 
 ## Cyklus FOR

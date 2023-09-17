@@ -1,6 +1,8 @@
 ---
 title: Převod měny
 demand: 2
+lead: Spočítejte svoji hodinovou mzdu v korunách.
+solutionAccess: lock
 ---
 
 1. Dejme tomu, že si jako programátoři vyděláváte 20 euro na hodinu. Uložte tuto hodnotu do proměnné `wageInEur`.

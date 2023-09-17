@@ -1,12 +1,11 @@
 title: "Úvod do programování: JavaScript"
 lead: Základy programování v jazyce JavaScript pro úplné nováčky.
 image: assets/javascript.svg
-subentry: lesson
 lessons:
   - priprava
   - uvod
   - javascript
-  - prvni-program
+  - promenne
   - podminky
   - objekty-pole
   - cykly

@@ -1,6 +1,8 @@
 ---
 title: Realitka
 demand: 2
+lead: Vytvořte objekt představující inzerát realitní kanceláře.
+solutionAccess: lock
 ---
 
 Mějme následující objekt představující inzerát na stránkách nějaké realitní kanceláře.

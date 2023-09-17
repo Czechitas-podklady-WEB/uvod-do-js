@@ -1,6 +1,8 @@
 ---
 title: Přihlášení
 demand: 2
+lead: Zkontrolujte uživatelské jméno a heslo.
+solutionAccess: lock
 ---
 
 Většina webových aplikací má možnost vytvořit si v nich osobní účet, do kterého se poté přihlásíte pomocí jména a hesla. Zkusíme si proto naprogramovat jednoduchou kontrolu uživatelských údajů.

@@ -1,6 +1,8 @@
 ---
 title: Očkování
 demand: 2
+lead: Vytvořte registrační systém na očkování proti COVID-19.
+solutionAccess: lock
 ---
 
 Představte si, že vyrábíte registrační systém na očkování proti COVID-19. U každého registrovaného chceme evidovat jméno a věk.

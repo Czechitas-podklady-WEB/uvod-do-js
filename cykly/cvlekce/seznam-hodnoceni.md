@@ -1,6 +1,8 @@
 ---
 title: Seznam hodnocení
-demand: 1
+demand: 2
+lead: Zobrazte seznam hodnocení divadelní hry.
+solutionAccess: lock
 ---
 
 Mějme seznam hodnocení divadelní hry *Plyšáci na útěku* , který vypadá takto:
